@@ -1,1 +1,1 @@
-# plg_jopensim_quickicon
+# plg_opensim_quickicon
